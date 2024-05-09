@@ -8,4 +8,4 @@ Here you will find the update files for MQTT Call products. Make sure to downloa
 
 Aquí encontrará los archivos de actualización para productos MQTT Call. Asegúrese de descargar el software correspondiente a su plataforma.
 
-Latest version: [v0.1.9-463](https://github.com/surixArg/mqtt_call/tree/main/v0.1.9-463)
+Latest version: [v0.1.9-531](https://github.com/surixArg/mqtt_call/tree/main/v0.1.9-531)
